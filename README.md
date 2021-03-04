@@ -1,3 +1,3 @@
 # Solo Project-Student Management-System
-Netbeans project-Java
+Netbeans solo project-Java
 Individual project
